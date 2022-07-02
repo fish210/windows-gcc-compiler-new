@@ -1,2 +1,2 @@
-# Windows-GCC-Compiler-NEW
+# windows-gcc-compiler-new
 https://winlibs.com
